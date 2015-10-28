@@ -1,4 +1,4 @@
-# APiTempComp
+# APiTempCorr
 
 Astro Pi Temperature Correction / Compensation
 
